@@ -1,4 +1,4 @@
-# birthad-liza-vue3
+# birthday-liza-vue3
 
 ## Project setup
 ```
@@ -13,6 +13,12 @@ yarn serve
 ### Compiles and minifies for production
 ```
 yarn build
+```
+
+### Push to Github Pages
+```
+git add dist && git commit -m "new build"
+git subtree push --prefix dist origin gh-pages
 ```
 
 ### Lints and fixes files

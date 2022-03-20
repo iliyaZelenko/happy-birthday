@@ -48,7 +48,7 @@ export default defineComponent({
   mounted () {
     setTimeout(() => {
       this.show = true
-    }, 20000)
+    }, 40000)
   }
 })
 </script>
