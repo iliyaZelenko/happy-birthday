@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkbirthad_liza_vue3"]=self["webpackChunkbirthad_liza_vue3"]||[]).push([[443],{4335:function(a,n,u){u.r(n),u.d(n,{default:function(){return o}});var t=u(3396);const e={class:"about"},r=(0,t._)("h1",null,"This is an about page",-1),i=[r];function s(a,n){return(0,t.wg)(),(0,t.iD)("div",e,i)}var c=u(89);const l={},h=(0,c.Z)(l,[["render",s]]);var o=h}}]);
-//# sourceMappingURL=about.7ad95f56.js.map
